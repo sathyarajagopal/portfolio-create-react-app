@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-create-react-app/static/css/main.3180bdec.chunk.css",
+    "main.js": "/portfolio-create-react-app/static/js/main.e1d607c8.chunk.js",
+    "main.js.map": "/portfolio-create-react-app/static/js/main.e1d607c8.chunk.js.map",
+    "runtime-main.js": "/portfolio-create-react-app/static/js/runtime-main.3bdfb6bc.js",
+    "runtime-main.js.map": "/portfolio-create-react-app/static/js/runtime-main.3bdfb6bc.js.map",
+    "static/js/2.abb2cf71.chunk.js": "/portfolio-create-react-app/static/js/2.abb2cf71.chunk.js",
+    "static/js/2.abb2cf71.chunk.js.map": "/portfolio-create-react-app/static/js/2.abb2cf71.chunk.js.map",
+    "index.html": "/portfolio-create-react-app/index.html",
+    "precache-manifest.b48c2ca1ee7d862efcc82e8547971893.js": "/portfolio-create-react-app/precache-manifest.b48c2ca1ee7d862efcc82e8547971893.js",
+    "service-worker.js": "/portfolio-create-react-app/service-worker.js",
+    "static/css/main.3180bdec.chunk.css.map": "/portfolio-create-react-app/static/css/main.3180bdec.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bdfb6bc.js",
+    "static/js/2.abb2cf71.chunk.js",
+    "static/css/main.3180bdec.chunk.css",
+    "static/js/main.e1d607c8.chunk.js"
+  ]
+}
