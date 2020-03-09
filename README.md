@@ -27,3 +27,5 @@ yarn start
 - Styled Components
 - Carbon Design
 
+## Demo
+You can visit the deployed app, at https://sathyarajagopal.github.io/portfolio-create-react-app/.
